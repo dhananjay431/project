@@ -1,0 +1,24 @@
+{
+  "name": "ng5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhananjay431/ng5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhananjay431/ng5/issues"
+  },
+  "homepage": "https://github.com/dhananjay431/ng5#readme",
+  "dependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-uglify": "^3.0.1"
+  },
+  "devDependencies": {}
+}
